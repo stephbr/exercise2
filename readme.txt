@@ -18,6 +18,7 @@ Level 1
 3. Add two images, one using a relative path and one an absolute path
 4. Make two lists, one with numbers and one with bullet points
 5. Add a comment
+6. Commit your changes with Git
 
 
 
@@ -37,7 +38,7 @@ Level 3
 1. Create a row of 4 boxes
 3. Make all widths percentages instead of pixels
 3. Make one of those boxes green, the others blue
-4. Send me a pull request
+4. Commit and push your changes. Send me a pull request.
 
 
 
