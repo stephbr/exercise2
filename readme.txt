@@ -7,7 +7,7 @@ Start with Level 1 and see how far you can make it!
 
 
 ========
-Tasks!
+Tasks
 ========
 
 
