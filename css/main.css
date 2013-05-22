@@ -4,8 +4,12 @@ body {
 	
 }
 
+.listheaders {
+	font-size: 20px;
+}
+
 .wrapper {
-	width: 600px;
+	width: 50%;
 	height: auto;
 	background-color: white;
 	margin: 0 auto;
@@ -17,7 +21,7 @@ body {
 }
 
 .lists {
-	width: 600px;
+	width: 50%;
 	height: auto;
 	background-color: red;
 	margin: 0 auto;
@@ -25,9 +29,30 @@ body {
 
 }
 
+.boxes {
+	width: 10%;
+	height: 130px;
+	margin: 85px;
+	float: left;
+	background: white;
+}
+
+#bluebox {
+	width: 10%;
+	height: 130px;
+	margin: 85px;
+	float: left;
+	background: blue;
+}
+
+#greenbox {
+	width: 10%;
+	height: 130px;
+	margin: 85px;
+	float: left;
+	background: green;
+}
+
 header { font-size:40px;
 }
 
-.listheaders {
-	font-size: 20px;
-}
