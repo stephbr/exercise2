@@ -7,3 +7,10 @@ body {
 .wrapper {
 
 }
+
+header { font-size:40px;
+}
+
+.listheaders {
+	font-size: 20px;
+}
