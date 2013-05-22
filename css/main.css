@@ -1,9 +1,48 @@
 
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+
 body {
-	
+	background-image: url('http://kupika.com/oekaki/2008/03/19/vvracooesn.jpg');
+}
+
+p, ul, ol {
+	margin: 10px;
+}
+
+.wrapper {
+	width: 800px;
+    height: 100%;
+    margin: 0 auto -200px;
+	background: #96f;
+
+}
+
+header {
+	background: #30F;
+	height: 50px;
+
+}
+
+footer {
+	background-image: url('http://1.bp.blogspot.com/-J9doxBX-B5I/TcsaWYsCLFI/AAAAAAAAAgE/8IpS4nTpqGM/s1600/rainy_day-doodles.jpg');
+	height: 120px;
 }
 
 
-.wrapper {
 
+
+footer div {
+	float: left;
+	width:25%;
+	height: 80px;
+	background: blue;
+}
+
+footer div.green {
+	background: green;
 }
