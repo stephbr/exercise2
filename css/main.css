@@ -46,3 +46,10 @@ footer div {
 footer div.green {
 	background: green;
 }
+
+img {
+	position: absolute;
+	bottom: 0;
+}
+
+
