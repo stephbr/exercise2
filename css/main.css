@@ -73,7 +73,6 @@ body {
 	margin: 50px;
 }
 
-
 .lists {
 	width: 50%;
 	height: auto;
@@ -99,6 +98,14 @@ body {
 	background: blue;
 }
 
+
+.boxes {
+	width: 10%;
+	height: 130px;
+	margin: 85px;
+	float: left;
+	background: blue;
+}
 
 #bluebox {
 	width: 10%;
