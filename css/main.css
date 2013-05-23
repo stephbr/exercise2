@@ -1,9 +1,58 @@
 
-body {
+body { 
+	background-image: url('../images/sad-clown-with-polka-dots-patricia-arroyo.jpg');
 	
 }
 
+.listheaders {
+	font-size: 20px;
+}
 
 .wrapper {
+	width: 50%;
+	height: auto;
+	background-color: white;
+	margin: 0 auto;
 
 }
+
+#images {
+	margin: 50px;
+}
+
+.lists {
+	width: 50%;
+	height: auto;
+	background-color: red;
+	margin: 0 auto;
+	color: white;
+
+}
+
+.boxes {
+	width: 10%;
+	height: 130px;
+	margin: 85px;
+	float: left;
+	background: white;
+}
+
+#bluebox {
+	width: 10%;
+	height: 130px;
+	margin: 85px;
+	float: left;
+	background: blue;
+}
+
+#greenbox {
+	width: 10%;
+	height: 130px;
+	margin: 85px;
+	float: left;
+	background: green;
+}
+
+header { font-size:40px;
+}
+
